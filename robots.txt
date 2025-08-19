@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://laijiangkai.github.io/chuanyu-digital-financial-center/sitemap.xml
+Sitemap: https://laijiangkai.github.io/chiuanyu-digital-financial-center/sitemap.xml
